@@ -6,7 +6,6 @@ public class LojaVirtual {
 
     public Produto criarProduto() {
         return new Produto(1, "mouse", 50D);
-
     }
 
     public Carrinho criarCarrinho() {
